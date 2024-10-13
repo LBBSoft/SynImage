@@ -15,7 +15,7 @@ Downloaded pre-trained ImageMol model from GitHub Repository "https://github.com
 
 **Usage**
 
-You can download all data from  https://github.com/maryammehrabani/SynImage/Data
+You can download all data from  https://github.com/maryammehrabani/SynImage/Data](https://github.com/maryammehrabani/SynImage/tree/main/Data
 
 
 **Property Prediction Model**
