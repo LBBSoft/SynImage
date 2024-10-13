@@ -3,6 +3,7 @@ This code repository includes a novel approach called SynImage that employs mole
 ![SynImage](https://raw.githubusercontent.com/maryammehrabani/SynImage/main/synimage.png)
 
 **Enviroment Setup**
+
 You can install the packages 
 
  ```
