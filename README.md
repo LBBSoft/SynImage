@@ -12,7 +12,7 @@ pip install torchcam
 pip install torch==1.13.*
 
 ```
-Downloaded pre-trained ImageMol model from GitHub Repository "https://github.com/HongxinXiang/ImageMol"  to extract features from SMILES drugs 
+Downloaded pre-trained ImageMol model from GitHub Repository "https://github.com/HongxinXiang/ImageMol"  to extract features from SMILES of drugs 
 
 **Usage**
 
